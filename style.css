@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 35px;
+    margin: 150px;
+    background-color: rgb(39, 37, 37);
+    color: #fff;
+}
+
+button{
+    padding:10px;
+    background-color: transparent;
+    border: 1px solid grey;
+    color: inherit;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 10px;
+}
+button:hover{
+    color: black;
+    background-color: white;
+}
+
+span {
+    border-bottom: 2px solid grey;
+}
